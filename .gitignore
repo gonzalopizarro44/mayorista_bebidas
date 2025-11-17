@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Django stuff
+*.log
+
+# Virtual env
+venv/
+env/
